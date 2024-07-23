@@ -10,6 +10,7 @@ To get started with this project, clone the repository and navigate into the pro
 ```bash
 git clone https://github.com/commithouse/tree-lot.git
 cd tree-lot
+```
 
 ## Run
 

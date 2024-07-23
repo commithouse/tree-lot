@@ -10,3 +10,9 @@ To get started with this project, clone the repository and navigate into the pro
 ```bash
 git clone https://github.com/commithouse/tree-lot.git
 cd tree-lot
+
+## Run
+
+Run with the last version of java
+the fist arg (input) is the total quantity of nodes, next line are the values of each node starting from the root.
+

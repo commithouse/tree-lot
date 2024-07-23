@@ -14,6 +14,6 @@ cd tree-lot
 
 ## Run
 
-Run with the last version of java
-the fist arg (input) is the total quantity of nodes, next line are the values of each node starting from the root.
+Run with the last version of java: 
+The fist arg (input) is the total quantity of nodes, next line are the values of each node starting from the root.
 
